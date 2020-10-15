@@ -1,2 +1,1 @@
-#this is a repo <br>
-This is an example repo, hello world
+<h1 style="color:#fff;background:#000;">This is a repo</h1>
